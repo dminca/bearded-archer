@@ -14,7 +14,7 @@ Bere = ESTE UN produs cu un procent de alcool (nr real).
 
 Un Magazin poate contine maximum 100 de Produse si are comportamente pentru urm. operatii:
 - adaugarea unui produs nou
--- va adauga un produs Ciocolata sau Bere in magazin daca mai este loc in magazin sau va arunca o Exceptie in cazul in care nu mai este loc in magazin.
+- va adauga un produs Ciocolata sau Bere in magazin daca mai este loc in magazin sau va arunca o Exceptie in cazul in care nu mai este loc in magazin.
 
 - stergerea unui produs cu seria data (eliminarea unui produs din magazin DACA acesta exista).
 - afisarea tuturor produselor in consola
@@ -23,12 +23,12 @@ Un Magazin poate contine maximum 100 de Produse si are comportamente pentru urm.
 
 Aplicatia lucreaza cu o sg. instanta de Magazin si poate citi din consola urmatoarele comenzi pe care le executa asupra acestei instante:
 1. ap - adauga produs
--- b = bere
--- c = ciocolata
----> seria
----> pret
------> pa = procent alcool
------> cal = calorii
+- b = bere
+- c = ciocolata
+- seria
+- pret
+- pa = procent alcool
+- cal = calorii
 
 Ex: 
 ap b 12345 10 5.5
