@@ -1,6 +1,6 @@
 bearded-archer
 ==============
-<img src="http://i.imgur.com/6GM3rnu.png" />
+<img src="http://i.imgur.com/6GM3rnu.png" /> <br/>
 Clasa Produs defineste un produs cu atributele:
 - serie (sir de caractere unic pt fiecare produs)
 - pret (nr. real)
